@@ -3,8 +3,8 @@
 
 - [Чек-лист Веб-приложения "Интернет-Магазин](https://docs.google.com/spreadsheets/d/11DyXCRxYhkfUFYXq611qTJ1MgzrndlfQzaJ4VCqQevo/edit?gid=0#gid=0)
 
-- [Тест-Кейсы Веб-приложения "Интернет-Магазин](https://github.com/user-attachments/files/22068086/-.pdf)
+- [Тестовые наборы для Веб-приложения "Интернет-Магазин](https://github.com/user-attachments/files/22068086/-.pdf)
 
-- [Результаты тестирования, согласно тест кейсам](https://github.com/user-attachments/files/22187869/G101-Test%2Brun%2B2025_09_04.pdf)
+- [Результаты тестирования Веб-приложения, согласно тестовым наборам](https://github.com/user-attachments/files/22187869/G101-Test%2Brun%2B2025_09_04.pdf)
 
 - [Отчет о дефектах](https://github.com/user-attachments/files/23433517/default.xlsx)
