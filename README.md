@@ -1,5 +1,5 @@
 # Тестовая документация
-В данном репозитории я создал чек-лист, тест-кейсы, тестовый прогон, отчеты о дефекте для https://qa.demoshopping.ru:
+В данном репозитории я создал чек-лист, тестовые наборы, тестовый прогон, отчеты о дефекте для https://qa.demoshopping.ru:
 
 - [Чек-лист Веб-приложения "Интернет-Магазин](https://docs.google.com/spreadsheets/d/11DyXCRxYhkfUFYXq611qTJ1MgzrndlfQzaJ4VCqQevo/edit?gid=0#gid=0)
 
